@@ -16,7 +16,7 @@ This project applies **unsupervised learning** to Spotify user survey data to id
 ---
 
 ## Data
-- **Source:** Kaggle – Spotify User Behavior Dataset  
+- **Source:** Kaggle – Spotify User Behavior Dataset https://www.kaggle.com/datasets/meeraajayakumar/spotify-user-behavior-dataset/data 
 - **Observations:** 520 users  
 - **Features:** 20 survey variables (mostly categorical)
 
