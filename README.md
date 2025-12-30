@@ -4,7 +4,7 @@
 This project applies **unsupervised learning** to Spotify user survey data to identify distinct listener segments and uncover behavioral patterns. Using **K-Modes clustering** and **association rule mining**, the analysis demonstrates how categorical user data can inform **product, marketing, and retention strategies**.
 
 📓 **Main notebook:**  
-[Spotify User Segmentation Analysis.ipynb](Spotify%20User%20Segmentation%20Anlaysis.ipynb)
+[spotify_user_segmentation_analysis.ipynb](https://github.com/stjsmith8/user-segmentation/blob/main/notebook/spotify_user_segmentation_analysis.ipynb)
 
 ---
 
