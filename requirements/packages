@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+OrdinalEncoder
+OneHotEncoder
+stats
+chi2_contingency
+randint
+KModes
+silhouette_score
+apriori
+association_rules
